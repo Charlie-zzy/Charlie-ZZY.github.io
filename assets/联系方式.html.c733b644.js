@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-04fba3ea","path":"/posts/legacy/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F.html","title":"\u8054\u7CFB\u65B9\u5F0F","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1662592373000},"filePathRelative":"posts/legacy/\u8054\u7CFB\u65B9\u5F0F.md"}');export{e as data};
