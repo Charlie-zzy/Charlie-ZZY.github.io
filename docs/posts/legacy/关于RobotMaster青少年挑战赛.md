@@ -25,7 +25,7 @@ tags:
 
 [辽宁站资讯](https://www.robomaster.com/zh-CN/resource/pages/1119)
 
-[报名](https://registration.robomaster.com/registration-center)<red>(需组建战队，暂无)</red>
+[报名](https://registration.robomaster.com/registration-center)(需组建战队，暂无)
 
 # 资源下载
 

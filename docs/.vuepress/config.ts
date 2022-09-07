@@ -25,7 +25,7 @@ export default defineUserConfig({
         {
           text: '博客归档',
           children: [
-            '/posts/legacy/2019年度总结.md',
+            // '/posts/legacy/2019年度总结.md',
             '/posts/legacy/2020年度总结（上）.md',
             '/posts/legacy/DAILY⊕报.md',
             '/posts/legacy/TACA白给记.md',
